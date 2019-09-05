@@ -15,6 +15,7 @@ Entrar no mongodb atlas, criar um cluster, criar um user em "Database Access", e
 
 MongoDB Compass: serve para ver o teu banco de dados, baixa e conecta do mesmo jeito que o topico acima, mas dps de "connect" vai na opção do mongoDB Compass e copia o campo e abre o Compass que ele vai preencher o formulario automaticamente, aí só bota o usuário e senha e conecta
 
+Socket.io: serve pro realtime
 
 
 
@@ -22,7 +23,7 @@ MongoDB Compass: serve para ver o teu banco de dados, baixa e conecta do mesmo j
 
 
 
-------------- Antigo
+------------- Antigo \/ -----------------
 
 Require Dir: para não precisar ficar dando require em todos os models criados na pasta 'models', aí isso da um require na pasta inteira
 
